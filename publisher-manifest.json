@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "83793dab2119a7cd871d58b9",
+  "owner": "regrmu",
+  "repo": "page-aba0fb0028c062f8befed060",
+  "title": "快塔",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "aba0fb0028c062f8befed060",
+      "a": "快塔",
+      "b": "",
+      "entity": "快塔",
+      "brand": "快塔",
+      "separator": "",
+      "path": "index.html",
+      "hash": "db9027430e357bf21a423217e54f798de1ee43b2ab884b42c55d11e6ab9842cc",
+      "content": {
+        "keyword1": "快塔",
+        "keyword2": "",
+        "primary_entity": "快塔",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "快塔提供稳定高速的机场VPN服务与网络加速体验，支持多端客户端下载、流媒体解锁及游戏专线。访问快塔官网了解套餐并获取官方下载与订阅。",
+          "AI_DESCRIPTION": "快塔提供稳定高速的机场VPN服务与网络加速体验，支持多端客户端下载、流媒体解锁及游戏专线。访问快塔官网了解套餐并获取官方下载与订阅。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;background:#071a2e;color:#e0f2fe;font-family:system-ui,-apple-system,sans-serif;font-size:16px;line-height:1.75}a{color:#22d3ee;text-decoration:none}header{padding:14px 16px;border-bottom:1px solid #1e3a5f;background:#071a2e}nav{display:flex;flex-wrap:wrap;gap:10px 16px;justify-content:center;font-size:14px}.hero{padding:76px 20px 44px;text-align:center}h1{font-size:clamp(2rem,7.5vw,2.75rem);margin:0 0 14px;color:#2dd4bf;font-weight:800;letter-spacing:.04em}.lead{font-size:1.12rem;color:#bae6fd;max-width:34em;margin:0 auto}main{max-width:800px;margin:0 auto;padding:0 18px 56px}h2{font-size:1.42rem;color:#2dd4bf;margin:48px 0 14px;padding-bottom:8px;border-bottom:2px solid #155e75}h3{font-size:1.12rem;color:#7dd3fc;margin:22px 0 8px}p,li{color:#dbeafe}.card{background:#0d2d4a;border-radius:12px;padding:18px;margin:12px 0;border:1px solid #164e63}.featured{border:2px solid #2dd4bf}.price{font-size:1.45rem;color:#2dd4bf;font-weight:700}.annual{font-size:.9rem;color:#94a3b8}ul{padding-left:1.2em}details{background:#0d2d4a;border-radius:8px;margin:10px 0;border:1px solid #155e75}summary{padding:14px 16px;font-weight:650;color:#a5f3fc}details p{padding:0 16px 16px;margin:0;color:#cbd5e1}.faq-wrap{margin-top:8px;padding:8px 0 4px}footer{background:#051525;padding:28px 16px 36px;font-size:14px;color:#94a3b8;text-align:center}.links{display:flex;flex-wrap:wrap;gap:8px 14px;justify-content:center;margin:12px 0}.ad{border:1px dashed #334155;padding:12px;margin:16px auto;max-width:620px}</style><header><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#plans\">套餐</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></header><div class=\"hero\" id=\"intro\"><h1>快塔</h1><p class=\"lead\">快塔官方网站：机场订阅、VPN网络加速与多端客户端下载。透明套餐、稳定节点，服务办公、流媒体与游戏加速。</p></div><main><section><h2>品牌简介</h2><p>快塔是面向跨境连接需求的网络加速平台，以机场订阅为核心，兼容主流代理与VPN客户端。我们把节点质量、线路优化和上手流程放在一起：订阅后即可在多设备上更新节点、按规则分流，减少卡顿与超时。无论您需要访问协作工具、观看流媒体，还是为对战游戏降低延迟，都可以在快塔官网完成选购、查看说明并获取客户端指引。</p><p>快塔不 bundling 夸张承诺，而是把流量、同时在线设备数和线路类型写进套餐。基础版覆盖日常加速；旗舰版增加原生流媒体解锁、IPLC 游戏向优化与优先工单；团队版面向多设备与更高带宽场景。所有说明以本页套餐与操作步骤为准，建议仅通过快塔官方网站获取订阅信息。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>跨境办公与远程协作</h3><p>视频会议、云文档、代码仓库与设计协作工具对稳定性和延迟敏感。快塔提供可分流的节点，国内站点直连、跨境流量走加速通道，减少整网代理带来的多余绕路。</p><h3>流媒体与内容访问</h3><p>基础版面向常用流媒体与基础解锁需求。旗舰版与团队版强调全节点原生解锁维护，适合对画质与片库完整性要求更高的用户。实际可用性会随内容平台策略变化，连接后以实测为准。</p><h3>游戏加速</h3><p>旗舰版包含 IPLC 专线游戏加速优化，适合对丢包和延迟敏感的在线对战。团队版 VIP 高带宽节点便于多人同时在线。请按游戏进程分流，避免把更新下载也走游戏专线。</p><h3>学习研究与开发资料</h3><p>文档站点、开源社区、学术检索与软件源常需要稳定跨境访问。快塔订阅可在桌面与移动端同步，方便在不同设备间切换同一套节点策略。</p></section><section id=\"guide\"><h2>操作说明</h2><h3>获取机场订阅</h3><p>在快塔官网选择套餐并完成开通后，账户内会提供专属订阅链接。请妥善保存该地址，不要在公开渠道传播。年付与月付对应同一套导入方式，区别主要在流量额度、设备数与线路等级。</p><h3>安装客户端</h3><p>Windows 与 macOS 可使用 Clash Meta / Clash Verge 一类客户端；Android 可使用 Clash Meta for Android；iOS 可使用 Shadowrocket、Stash 等（应用需自行从系统商店获取）。快塔提供导入与分流建议，安装包请走官方或可信商店，避免来路不明的“一键包”。</p><h3>导入节点并连接</h3><p>打开客户端，添加订阅 URL 并更新。选择延迟较低、符合场景的节点后连接。建议开启规则模式：国内直连、跨境与指定应用走代理。游戏与流媒体可单独指定策略组。连接异常时先更新订阅、更换节点，再检查本地系统时间与网络权限。</p></section><section id=\"plans\"><h2>套餐与价格</h2><p>以下为快塔当前公开套餐。流量按自然月计算，设备数为同时在线上限。年付价格已在各档标明。</p><div class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"card featured\"><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></section><section id=\"download\"><h2>客户端下载与官网指引</h2><p>快塔官网下载相关说明集中于此。我们推荐使用可导入机场订阅的通用客户端，而不是来路不明的定制安装包。完成套餐开通后，将订阅链接粘贴到客户端即可拉取节点。</p><h3>桌面端</h3><p>Windows、macOS 与 Linux 可安装 Clash Meta 内核的图形客户端，导入订阅后按规则分流。请从客户端项目官方发布渠道获取安装文件，再回到快塔账户复制订阅地址。</p><h3>移动端</h3><p>Android 使用支持订阅的 Clash 系应用；iOS 使用支持 SSR/VMess/Trojan 等协议及订阅的商店应用。系统对后台 VPN 配置有权限要求，首次连接需允许 VPN 配置描述。</p><p>若您是新用户，建议路径为：浏览本页套餐 → 开通对应档位 → 复制订阅 → 按系统安装客户端 → 更新节点后连接。全程以快塔官方网站展示的账户信息为准。</p></section><section id=\"faq\" class=\"faq-wrap\"><h2>常见问题</h2><p>以下为使用快塔机场订阅与客户端时最常被问到的问题，建议收藏本页对照操作。</p><details><summary>快塔是机场还是 VPN？和普通加速器有何不同？</summary><p>快塔以机场订阅为主，提供多协议节点，可在 Clash、Shadowrocket 等客户端中当加速器使用，也能获得接近传统 VPN 的一键连接体验。区别在于您可以按应用分流、按套餐选择流量与线路等级，而不是单一入口的封装工具。品牌名是快塔，本页同时覆盖快塔机场订阅与快塔 VPN 客户端用法。</p></details><details><summary>如何在快塔官网完成客户端下载？</summary><p>打开本页「客户端下载」章节，按 Windows、macOS、Android、iOS 选择对应通用客户端名称，从该客户端的官方发布源安装，再回到快塔账户粘贴订阅链接。快塔官网提供配置指引，不鼓励下载第三方打包的「破解客户端」。认准 canonical 所示官方站点，可降低仿冒页风险。</p></details><details><summary>三个套餐的流量、设备和支持范围怎么选？</summary><p>基础版每月 100GB、3 台设备，适合轻度浏览与基础流媒体。旗舰版 300GB、5 台设备，含全节点原生解锁、IPLC 游戏优化和优先工单，是个人主力档。团队版 1000GB、20 台设备，含 VIP 高带宽、定制路由和客户经理，适合多人共用。年付分别为 ¥150、¥350、¥850。</p></details><details><summary>导入订阅后连不上或很慢怎么办？</summary><p>先在客户端强制更新订阅，排除过期节点。再更换线路，优先延迟低、负载正常的入口。检查系统时间是否准确、是否授予 VPN 权限、本地防火墙是否拦截。游戏场景请确认走了旗舰版 IPLC 相关策略组，而不是普通浏览节点。仍异常时，旗舰与团队用户可走优先工单。</p></details><details><summary>流媒体解锁是否保证所有平台？</summary><p>基础版覆盖基础流媒体。旗舰版与团队版维护全节点原生解锁，但仍受内容平台风控影响，不能把「永久解锁所有站点」写成绝对保证。建议把视频应用单独分流，失败时更换解锁向节点。快塔会持续调整节点，具体以连接后播放结果为准。</p></details><details><summary>年付后能否升级？设备超限会怎样？</summary><p>需要更多流量或设备时可升级到更高档套餐，账户侧以官网规则为准。超过同时在线上限可能导致新设备无法握手或旧会话被挤占。团队版适合家庭或小团队共用；个人用户多数情况下旗舰版的 5 台设备已经够用。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>快塔官方网站 · 机场订阅与网络加速信息页</p><div class=\"ad\">广告：请通过快塔官网获取订阅与客户端指引，谨防仿冒站点与非官方安装包。</div><p>友情链接</p><div class=\"links\"><a href=\"#guide\">客户端配置教程</a><a href=\"#plans\">套餐说明</a><a href=\"#download\">官网下载指引</a><a href=\"#faq\">加速器常见问题</a><a href=\"#scenes\">网络加速场景</a></div><p>网站地图</p><div class=\"links\"><a href=\"#intro\">简介</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#plans\">套餐</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></div><p>© 快塔 kuaita.net</p></footer>",
+          "hash": "72d29b89e8944fb47003eb36cc544fe1f1554d7f026f737654d2c8d756164d98",
+          "seo": {
+            "title": "快塔官网 | VPN网络加速、机场订阅与客户端官方下载",
+            "keywords": "快塔,快塔机场,快塔VPN,VPN梯子,网络加速,加速器,客户端下载,官网下载,机场订阅,IPLC加速",
+            "description": "快塔提供稳定高速的机场VPN服务与网络加速体验，支持多端客户端下载、流媒体解锁及游戏专线。访问快塔官网了解套餐并获取官方下载与订阅。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "54fit1.cn",
+    "host": "p-19ac3a1eae.54fit1.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "54fit1.cn",
+      "url": "https://54fit1.cn/",
+      "label": "Walless",
+      "apex": "54fit1.cn",
+      "kind": null,
+      "identity": "dhhhtpkfd/page-9349db53ae0bcfed2db8042c"
+    },
+    {
+      "host": "ndsnr.cn",
+      "url": "https://ndsnr.cn/",
+      "label": "快塔",
+      "apex": "ndsnr.cn",
+      "kind": null,
+      "identity": "cevqvv/page-579fc8792a9f1c5cf5e5422c"
+    },
+    {
+      "host": "nizrhd.cn",
+      "url": "https://nizrhd.cn/",
+      "label": "快塔",
+      "apex": "nizrhd.cn",
+      "kind": null,
+      "identity": "xerth4/page-5150df58ecd8bb74a582f47c"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "8efaf8a2a7e92343d744dcf33694f4f76b08a26ddfa87999c5cb6af55d3aeb6e",
+    "sitemap.xml": "bf0ab4bd4ce97905a66d34df88a529a024061934268d4e7eaebfb190851d70f7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ea4b9829357d7b0493160e6a77eb80021c13766382aba458426fb4e871572918",
+    "robots.txt": "34be3099d4e7b998e0010f662d0156940a570eaa5a7718c02d2746c0f5d0f030",
+    "2ed4af4401d47acb442454b25350c7ed.txt": "05cf4a83865b0425f7bec36300f21f6f72333237fd101044dbd7ebce8fed11f9"
+  },
+  "revision": "a24d14792c4e5335da7405293fb1bb2335a77cf4705deaa2b814f2dce4e1fea7"
+}
